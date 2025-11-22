@@ -1,0 +1,6 @@
+MINECRAFT JAVA: 
+IP: SkyGlitch.aternos.me
+
+MINECRAFT BEDROCK:
+IP: SkyGlitch.aternos.me 
+PORTA: 31715
